@@ -1,0 +1,4 @@
+{
+  "bootstrapServers": ["localhost:29092"],
+  "topic": "foobar"
+}
